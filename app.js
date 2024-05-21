@@ -76,10 +76,10 @@ let track_list = [
     path: "./ktb/m7.mp3"
   }, 
      {
-    name: "Don - thuli thuli",
+    name: "Don - bae songs",
     artist: "Sivakarthikeyan, Priyanka Mohan | Anirudh Ravichander",
     image: "https://i.ytimg.com/vi/-7n_krPLRgs/0.jpg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "./ktb/m10.mp3"
+    path: "./ktb/m7.mp3"
   },   
      {
     name: "Don - Bae Song",
@@ -87,7 +87,13 @@ let track_list = [
     image: "https://i.ytimg.com/vi/-7n_krPLRgs/0.jpg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "./ktb/m7.mp3"
   },   
-];
+      {
+    name: "Don - thuli thuli",
+    artist: "Sivakarthikeyan, Priyanka Mohan | Anirudh Ravichander",
+    image: "https://i.ytimg.com/vi/-7n_krPLRgs/0.jpg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "./ktb/m10.mp3"
+  },   
+
 
 /*
 function random_bg_color() {
