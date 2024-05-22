@@ -34,7 +34,7 @@ let track_list = [
     path: "./ktb/m9.mp3"
   },
   {
-    name: "test",
+    name: "test song",
     artist: "𝐁𝐎𝐍𝐃 𝐋𝐄𝐆𝐄𝐍𝐃𝐒",
     image: "https://i.imgur.com/v14Dfao.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "./ktb/ReelAudio-29571.mp3"
@@ -52,10 +52,10 @@ let track_list = [
     path: "./ktb/m3.mp3"
   },
   {
-    name: "Anirudh Melody Hits - Best of Anirudh",
+    name: "test song",
     artist: "𝐁𝐎𝐍𝐃 𝐋𝐄𝐆𝐄𝐍𝐃𝐒",
     image: "https://i.imgur.com/v14Dfao.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "./ktb/m4.mp3"
+    path: "./ktb/y2mate.com - Munbe Vaa Lofi  Tamil Lofi  Sillunu Oru Kadhal  Shreya Ghoshal  AR Rahman  eternaL.mp3"
   },
   {
     name: "Sid Sriram Melody Hits",
