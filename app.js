@@ -79,7 +79,7 @@ let track_list = [
     name: "Ranjha Musical Cover",
     artist: "Hanan Shaah Ft Jazeem & Ibnu Azru",
     image: "https://i.ytimg.com/vi/OJqt-SUFENg/0.jpg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "./ktb/m8.mp3"
+    path: "./ktb/ktb/y2mate.com - Veyil Chilla  slowed  reverb   Zachariyayude Garbhinikal  Lal  Rima Kallingal   Earth Hut.mp3"
   },
   {
     name: "Mehabooba Musical Cover ",
