@@ -37,7 +37,7 @@ let track_list = [
     name: "test song",
     artist: "𝐁𝐎𝐍𝐃 𝐋𝐄𝐆𝐄𝐍𝐃𝐒",
     image: "https://i.imgur.com/v14Dfao.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "./ktb/ReelAudio-29571.mp3"
+    path: "./ktb/y2mate.com - Veyil Chilla  slowed  reverb   Zachariyayude Garbhinikal  Lal  Rima Kallingal   Earth Hut.mp3"
   },
   {
     name: "Porkanda singam",
