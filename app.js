@@ -85,7 +85,7 @@ let track_list = [
     name: "test song",
     artist: "𝐁𝐎𝐍𝐃 𝐋𝐄𝐆𝐄𝐍𝐃𝐒",
     image: "https://i.imgur.com/v14Dfao.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "./naan.mp3/naan.mp3"
+    path: "
   },
  ];   
 
