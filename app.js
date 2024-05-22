@@ -79,7 +79,7 @@ let track_list = [
     name: "Ranjha Musical Cover",
     artist: "Hanan Shaah Ft Jazeem & Ibnu Azru",
     image: "https://i.imgur.com/v14Dfao.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "./ktb/ktb/ReelAudio-29571.mp3"
+    path: "./ktb/ktb/ww.mp3.mp3.mp3"
   },
   {
     name: "Mehabooba Musical Cover ",
