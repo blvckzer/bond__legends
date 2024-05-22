@@ -149,10 +149,10 @@ function randombg(){
   var random= Math.floor(Math.random() * 7) + 0;
   var bigSize = ["url('https://terror-boy.github.io/bgimg/i4.png?auto=compress')",
                  "url('https://terror-boy.github.io/bgimg/i4.png?auto=compress')",
-                 "url('https://i.pinimg.com/originals/b1/12/27/https://i.imgur.com/6y6xArw.jpeg?auto=compress')",
-                 "url('https://i.pinimg.com/originals/f6/00/4e/https://i.imgur.com/6y6xArw.jpeg?auto=compress')",
-                 "url('https://i.pinimg.com/564x/2c/39/8a/https://i.imgur.com/6y6xArw.jpeg?auto=compress')",
-                 "url('https://i.pinimg.com/564x/77/e4/b3/https://i.imgur.com/6y6xArw.jpeg?auto=compress')",
+                 "url('https://i.pinimg/https://i.imgur.com/6y6xArw.jpeg?auto=compress')",
+                 "url('https://i.pinimg/https://i.imgur.com/6y6xArw.jpeg?auto=compress')",
+                 "url('https://i.pinimg/https://i.imgur.com/6y6xArw.jpeg?auto=compress')",
+                 "url('https://i.pinimg/https://i.imgur.com/6y6xArw.jpeg?auto=compress')",
                  "url('https://terror-boy.github.io/bgimg/i4.png?auto=compress')"
                  ];
   document.body.style.background = bigSize[random];
