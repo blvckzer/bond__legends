@@ -36,7 +36,7 @@ let track_list = [
   {
     name: "Painkiller Songs|pain killers for love failures | soulful songs 8D",
     artist: "Sid Sriram",
-    image: "https://i.ytimg.com/vi/92d1iKfScGM/0.jpg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    image: "https://i.imgur.com/6y6xArw.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "./ktb/m1.mp3"
   },
   {
@@ -72,7 +72,7 @@ let track_list = [
   {
     name: "Don - Bae Song",
     artist: "Sivakarthikeyan, Priyanka Mohan | Anirudh Ravichander",
-    image: "https://i.ytimg.com/vi/-7n_krPLRgs/0.jpg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    image: "https://i.imgur.com/6y6xArw.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "./ktb/ReelAudio-29571.mp3"
   },
  ];   
