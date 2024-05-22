@@ -79,13 +79,13 @@ let track_list = [
     name: "Ranjha Musical Cover",
     artist: "𝐁𝐎𝐍𝐃 𝐋𝐄𝐆𝐄𝐍𝐃𝐒",
     image: "https://i.imgur.com/v14Dfao.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "./ktb/ktb/ktb/m7.mp3"
+    path: "./ktb/m7.mp3"
   },
   {
     name: "Mehabooba Musical Cover ",
     artist: "𝐁𝐎𝐍𝐃 𝐋𝐄𝐆𝐄𝐍𝐃𝐒",
     image: "https://i.imgur.com/v14Dfao.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "./ktb/ktb/Naan Un (slowed + reverbed) (256).mp3"
+    path: "./ktb/Naan Un (slowed + reverbed) (256).mp3"
   },
  ];   
 
