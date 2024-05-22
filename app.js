@@ -141,19 +141,19 @@ function random_bg_color() {
   // Construct a color withe the given values
   let bgColor = "rgb(" + red + "," + green + "," + blue + ")";
   // Set the background to that color
-  document.body.style.background = "url('https://terror-boy.github.io/bgimg/im.png')";
+  document.body.style.background = "url('https://terror-boy.github.io/bgimg/i4.png')";
 }
 */
 
 function randombg(){
   var random= Math.floor(Math.random() * 7) + 0;
-  var bigSize = ["url('https://terror-boy.github.io/bgimg/im.png?auto=compress')",
-                 "url('https://terror-boy.github.io/bgimg/im.png?auto=compress')",
+  var bigSize = ["url('https://terror-boy.github.io/bgimg/i4.png?auto=compress')",
+                 "url('https://terror-boy.github.io/bgimg/i4.png?auto=compress')",
                  "url('https://i.pinimg.com/originals/b1/12/27/bgimg/115ad638ec124158a1be6edeee172c19.jpeg?auto=compress')",
                  "url('https://i.pinimg.com/originals/f6/00/4e/bgimg/115ad638ec124158a1be6edeee172c19.jpeg?auto=compress')",
                  "url('https://i.pinimg.com/564x/2c/39/8a/bgimg/115ad638-ec12-4158-a1be-6edeee172c19.jpeg?auto=compress')",
                  "url('https://i.pinimg.com/564x/77/e4/b3/bgimg/115ad638ec124158a1be6edeee172c19.jpeg?auto=compress')",
-                 "url('https://terror-boy.github.io/bgimg/im.png?auto=compress')"
+                 "url('https://terror-boy.github.io/bgimg/i4.png?auto=compress')"
                  ];
   document.body.style.background = bigSize[random];
 }
