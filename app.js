@@ -73,7 +73,7 @@ let track_list = [
     name: "Don - "test song", 
     artist: "𝐁𝐎𝐍𝐃 𝐋𝐄𝐆𝐄𝐍𝐃𝐒",
     image: "https://i.imgur.com/v14Dfao.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "./ktb/ReelAudio-29571.mp3"
+    path: "./blvk/ReelAudio-29571.mp3"
   },
      {
     name: "Bae Song",
