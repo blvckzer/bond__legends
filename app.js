@@ -34,7 +34,7 @@ let track_list = [
     path: "./ktb/m9.mp3"
   },
   {
-    name: "Painkiller Songs|pain killers for love failures | soulful songs 8D",
+    name: "test",
     artist: "𝐁𝐎𝐍𝐃 𝐋𝐄𝐆𝐄𝐍𝐃𝐒",
     image: "https://i.imgur.com/v14Dfao.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "./ktb/m1.mp3"
