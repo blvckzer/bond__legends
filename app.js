@@ -23,72 +23,59 @@ let curr_track = document.createElement('audio');
 let track_list = [
     {
     name: "Ranjha Musical Cover",
-    artist: "𝐁𝐎𝐍𝐃 𝐋𝐄𝐆𝐄𝐍𝐃𝐒",
-    image: "https://i.imgur.com/v14Dfao.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    artist: "Hanan Shaah Ft Jazeem & Ibnu Azru",
+    image: "https://i.ytimg.com/vi/OJqt-SUFENg/0.jpg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "./ktb/m8.mp3"
   },
   {
     name: "Mehabooba Musical Cover ",
-    artist: "𝐁𝐎𝐍𝐃 𝐋𝐄𝐆𝐄𝐍𝐃𝐒",
-    image: "https://i.imgur.com/v14Dfao.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    artist: "Hanan Shaah Ft Fajish",
+    image: "https://i.ytimg.com/vi/ZeTihwknnAc/0.jpg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "./ktb/m9.mp3"
   },
   {
     name: "Painkiller Songs|pain killers for love failures | soulful songs 8D",
-    artist: "𝐁𝐎𝐍𝐃 𝐋𝐄𝐆𝐄𝐍𝐃𝐒",
-    image: "https://i.imgur.com/v14Dfao.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    artist: "Sid Sriram",
+    image: "https://i.ytimg.com/vi/92d1iKfScGM/0.jpg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "./ktb/m1.mp3"
   },
   {
     name: "Porkanda singam",
-    artist: "𝐁𝐎𝐍𝐃 𝐋𝐄𝐆𝐄𝐍𝐃𝐒",
-    image: "https://i.imgur.com/v14Dfao.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    artist: "Anirudh Ravichandhar",
+    image: "https://i.ytimg.com/vi/5yDZXNSDAsg/0.jpg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "./ktb/m2.mp3"
   },
   {
     name: "8d Thattathin Marayath All Songs",
-    artist: "𝐁𝐎𝐍𝐃 𝐋𝐄𝐆𝐄𝐍𝐃𝐒",
-    image: "https://i.imgur.com/v14Dfao.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    artist: "nivin pauly | isha thalwar | vineeth sreenivasan | shan rahman |",
+    image: "https://i.ytimg.com/vi/p2OHWdyZBEk/0.jpg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "./ktb/m3.mp3"
   },
   {
     name: "Anirudh Melody Hits - Best of Anirudh",
-    artist: "𝐁𝐎𝐍𝐃 𝐋𝐄𝐆𝐄𝐍𝐃𝐒",
-    image: "https://i.imgur.com/v14Dfao.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    artist: "Anirudh Ravichandhar",
+    image: "https://i.ytimg.com/vi/zDStGFY5SZM/0.jpg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "./ktb/m4.mp3"
   },
   {
     name: "Sid Sriram Melody Hits",
-    artist: "𝐁𝐎𝐍𝐃 𝐋𝐄𝐆𝐄𝐍𝐃𝐒",
-    image: "https://i.imgur.com/v14Dfao.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    artist: "Sid Sriram",
+    image: "https://i.ytimg.com/vi/-aHmVsJV64c/0.jpg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "./ktb/m5.mp3"
   },
   {
     name: "Othai Thamarai",
-    artist: "𝐁𝐎𝐍𝐃 𝐋𝐄𝐆𝐄𝐍𝐃𝐒",
-    image: "https://i.imgur.com/v14Dfao.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    artist: "Nixen, Bala, Sandy Sandellow",
+    image: "https://i.ytimg.com/vi/JZBp0nEzFo8/0.jpg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "./ktb/m6.mp3"
   },
   {
-    name: "Don - "test song", 
-    artist: "𝐁𝐎𝐍𝐃 𝐋𝐄𝐆𝐄𝐍𝐃𝐒",
-    image: "https://i.imgur.com/v14Dfao.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "./blvk/ReelAudio-29571.mp3"
-  },
-     {
-    name: "Bae Song",
-    artist: "𝐁𝐎𝐍𝐃 𝐋𝐄𝐆𝐄𝐍𝐃𝐒",
-    image: "https://i.imgur.com/v14Dfao.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    name: "Don - Bae Song",
+    artist: "Sivakarthikeyan, Priyanka Mohan | Anirudh Ravichander",
+    image: "https://i.ytimg.com/vi/-7n_krPLRgs/0.jpg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "./ktb/m7.mp3"
-  },
-  {
-    name: "test song",
-    artist: "𝐁𝐎𝐍𝐃 𝐋𝐄𝐆𝐄𝐍𝐃𝐒",
-    image: "https://i.imgur.com/v14Dfao.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "
-  },
- ];   
-
+  },   
+];
 
 /*
 function random_bg_color() {
@@ -99,19 +86,19 @@ function random_bg_color() {
   // Construct a color withe the given values
   let bgColor = "rgb(" + red + "," + green + "," + blue + ")";
   // Set the background to that color
-  document.body.style.background = "url('https://terror-boy.github.io/bgimg/a4a238a4-c98c-42f7-bb16-122f7d533119.jpeg)";
+  document.body.style.background = "url('https://terror-boy.github.io/bgimg/im.png')";
 }
 */
 
 function randombg(){
   var random= Math.floor(Math.random() * 7) + 0;
-  var bigSize = ["url('https://terror-boy.github.io/bgimg/a4a238a4-c98c-42f7-bb16-122f7d533119.jpeg?auto=compress')",
-                 "url('https://terror-boy.github.io/bgimg/a4a238a4-c98c-42f7-bb16-122f7d533119.jpeg?auto=compress')",
-                 "url('https://i.pinimg.com/originals/b1/12/27/bgimg/115ad638ec124158a1be6edeee172c19.jpeg?auto=compress')",
-                 "url('https://i.pinimg.com/originals/f6/00/4e/bgimg/115ad638ec124158a1be6edeee172c19.jpeg?auto=compress')",
-                 "url('https://i.pinimg.com/564x/2c/39/8a/bgimg/115ad638-ec12-4158-a1be-6edeee172c19.jpeg?auto=compress')",
-                 "url('https://i.pinimg.com/564x/77/e4/b3/bgimg/115ad638ec124158a1be6edeee172c19.jpeg?auto=compress')",
-                 "url('https://terror-boy.github.io/bgimg/a4a238a4-c98c-42f7-bb16-122f7d533119.jpeg?auto=compress')"
+  var bigSize = ["url('https://terror-boy.github.io/bgimg/i2.png?auto=compress')",
+                 "url('https://terror-boy.github.io/bgimg/i4.png?auto=compress')",
+                 "url('https://i.pinimg.com/originals/b1/12/27/b112279f0f4c7aa95ea7e6dc6410e04e.jpg?auto=compress')",
+                 "url('https://i.pinimg.com/originals/f6/00/4e/f6004ed755cf1d9136a79105143464b6.jpg?auto=compress')",
+                 "url('https://i.pinimg.com/564x/2c/39/8a/2c398aaf822a670bc4257f89c26cf7c1.jpg?auto=compress')",
+                 "url('https://i.pinimg.com/564x/77/e4/b3/77e4b35532edcf609488b260fa1128f2.jpg?auto=compress')",
+                 "url('https://terror-boy.github.io/bgimg/im.png?auto=compress')"
                  ];
   document.body.style.background = bigSize[random];
 }
