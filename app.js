@@ -86,19 +86,19 @@ function random_bg_color() {
   // Construct a color withe the given values
   let bgColor = "rgb(" + red + "," + green + "," + blue + ")";
   // Set the background to that color
-  document.body.style.background = "url('https://terror-boy.github.io/bgimg/im.png')";
+  document.body.style.background = "url('https://terror-boy.github.io/bgimg/a4a238a4-c98c-42f7-bb16-122f7d533119.jpeg')";
 }
 */
 
 function randombg(){
   var random= Math.floor(Math.random() * 7) + 0;
-  var bigSize = ["url('https://terror-boy.github.io/bgimg/i2.png?auto=compress')",
-                 "url('https://terror-boy.github.io/bgimg/i4.png?auto=compress')",
-                 "url('https://i.pinimg.com/originals/b1/12/27/b112279f0f4c7aa95ea7e6dc6410e04e.jpg?auto=compress')",
-                 "url('https://i.pinimg.com/originals/f6/00/4e/f6004ed755cf1d9136a79105143464b6.jpg?auto=compress')",
-                 "url('https://i.pinimg.com/564x/2c/39/8a/2c398aaf822a670bc4257f89c26cf7c1.jpg?auto=compress')",
-                 "url('https://i.pinimg.com/564x/77/e4/b3/77e4b35532edcf609488b260fa1128f2.jpg?auto=compress')",
-                 "url('https://terror-boy.github.io/bgimg/im.png?auto=compress')"
+  var bigSize = ["url('https://terror-boy.github.io/bgimg/im.png?auto=compress')",
+                 "url('https://terror-boy.github.io/bgimg/im.png?auto=compress')",
+                 "url('https://i.pinimg.com/originals/b1/12/27/a4a238a4-c98c-42f7-bb16-122f7d533119.jpeg?auto=compress')",
+                 "url('https://i.pinimg.com/originals/f6/00/4e/a4a238a4-c98c-42f7-bb16-122f7d533119.jpeg?auto=compress')",
+                 "url('https://i.pinimg.com/564x/2c/39/8a/a4a238a4-c98c-42f7-bb16-122f7d533119.jpeg?auto=compress')",
+                 "url('https://i.pinimg.com/564x/77/e4/b3/a4a238a4-c98c-42f7-bb16-122f7d533119.jpeg?auto=compress')",
+                 "url('https://terror-boy.github.io/bgimg/a4a238a4-c98c-42f7-bb16-122f7d533119.jpeg?auto=compress')"
                  ];
   document.body.style.background = bigSize[random];
 }
