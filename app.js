@@ -70,19 +70,19 @@ let track_list = [
     path: "./ktb/m6.mp3"
   },
   {
-    name: "Don - Bae Song",
+    name: "Don - "test song", 
     artist: "𝐁𝐎𝐍𝐃 𝐋𝐄𝐆𝐄𝐍𝐃𝐒",
     image: "https://i.imgur.com/v14Dfao.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "./ktb/ReelAudio-29571.mp3"
   },
      {
-    name: "Ranjha Musical Cover",
+    name: "Bae Song",
     artist: "𝐁𝐎𝐍𝐃 𝐋𝐄𝐆𝐄𝐍𝐃𝐒",
     image: "https://i.imgur.com/v14Dfao.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "./ktb/m7.mp3"
   },
   {
-    name: "Mehabooba Musical Cover ",
+    name: "test song",
     artist: "𝐁𝐎𝐍𝐃 𝐋𝐄𝐆𝐄𝐍𝐃𝐒",
     image: "https://i.imgur.com/v14Dfao.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "./naan.mp3/naan.mp3"
