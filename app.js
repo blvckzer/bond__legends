@@ -93,7 +93,8 @@ function random_bg_color() {
 
 function randombg(){
   var random= Math.floor(Math.random() * 7) + 0;
-  var bigSize = link
+  var bigSize = ["url('https://terror-boy.github.io/bgimg/i4.png?auto=compress')",
+                 "url('https://terror-boy.github.io/bgimg/i4.png?auto=compress')",
   document.body.style.background = bigSize[random];
 }
 
