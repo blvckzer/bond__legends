@@ -37,7 +37,7 @@ let track_list = [
     name: "𝑨𝑹𝑰𝑲𝑰𝑳 𝑷𝑨𝑻𝑯𝑰𝒀𝑬",
     artist: "𝐁𝐎𝐍𝐃 𝐋𝐄𝐆𝐄𝐍𝐃𝐒",
     image: "https://i.imgur.com/v14Dfao.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "./ktb/y2mate.com - Veyil Chilla  slowed  reverb   Zachariyayude Garbhinikal  Lal  Rima Kallingal   Earth Hut.mp3"
+    path: "./ktb/[ytmp3.lat]media_mp3_arikil_pathiye_slowed_and_reverb_Oru_Murai_Vanthu_Paarthaya.mp3"
   },
   {
     name: "Porkanda singam",
