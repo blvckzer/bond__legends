@@ -22,10 +22,10 @@ let curr_track = document.createElement('audio');
 // Define the tracks that have to be played
 let track_list = [
     {
-    name: "Ranjha Musical Cover",
+    name: "𝑺𝑵𝑨𝑷 𝒙 𝑩𝑨𝑨𝑹𝑰𝑺𝑯𝑬𝑵-𝑴𝑨𝑺𝑯𝑼𝑷",
     artist: "𝐁𝐎𝐍𝐃 𝐋𝐄𝐆𝐄𝐍𝐃𝐒",
     image: "https://i.imgur.com/v14Dfao.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "./ktb/m8.mp3"
+    path: "./ktb/[ytmp3.lat]media_mp3_Snap_x_Baarishen_-_Mashup_Full_Version_Gravero_TP.mp3"
   },
   {
     name: "Mehabooba Musical Cover ",
