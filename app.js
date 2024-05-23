@@ -58,7 +58,7 @@ let track_list = [
     path: "./ktb/y2mate.com - Munbe Vaa Lofi  Tamil Lofi  Sillunu Oru Kadhal  Shreya Ghoshal  AR Rahman  eternaL.mp3"
   },
   {
-    name: "𝑳𝑬𝑻 𝑯𝑬𝑹 𝑮𝑶 𝒙 𝑯𝑼𝑺𝑵 𝑽𝑬𝑹𝑺𝑰𝑶𝑵 2",
+    name: "𝑳𝑬𝑻 𝑯𝑬𝑹 𝑮𝑶 𝒙 𝑯𝑼𝑺𝑵 𝑽𝑬𝑹𝑺𝑰𝑶𝑵",
     artist: "𝐁𝐎𝐍𝐃 𝐋𝐄𝐆𝐄𝐍𝐃𝐒",
     image: "https://i.imgur.com/v14Dfao.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "./ktb/[ytmp3.lat]media_mp3_Let_Her_Go_x_Husn_-_Version_2_Gravero_Mashup_Anuv_Jain.mp3"
