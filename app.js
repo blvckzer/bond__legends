@@ -84,7 +84,7 @@ function random_bg_color() {
   let green = Math.floor(Math.random() * 256) + 64;
   let blue = Math.floor(Math.random() * 256) + 64;
   // Construct a color withe the given values
-  let bgColor = "rgb(" + red + "," + green + "," + blue + ")";
+  let bgColor = "rgb(" + black + "," + black + "," +  +black ")";
   // Set the background to that color
   document.body.style.background = "url('https://terror-boy.github.io/bgimg/a4a238a4-c98c-42f7-bb16-122f7d533119.jpeg')";
 }
